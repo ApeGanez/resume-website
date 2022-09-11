@@ -1,0 +1,48 @@
+div.nameplate {
+    float: left;
+    margin-top: 80px;
+    border-top: 2px solid #01228f83;
+    border-right: 2px solid #01228f83;
+    border-bottom: 2px solid #01228f83;
+    background-color: rgb(230, 228, 240);
+}
+
+div.headshot {
+    padding: 6px;
+    float: left;
+    margin-left: 10%;
+    border: 2px #000f3f;
+}
+
+h1.nameplate {
+    font-family: "Times New Roman, Times, serif";
+    font-size: 60px;
+    letter-spacing: -0.2px;
+    word-spacing: 2px;
+    color: #000f3f;
+    font-weight: 700;
+    font-style: italic;
+    font-variant: normal; 
+    float: left;
+    margin-top: 80px;
+    border-top: 2px solid #01228f83;
+    border-right: 2px solid #01228f83;
+    border-bottom: 2px solid #01228f83;
+    background-color: rgb(230, 228, 240);
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 190px
+}
+
+p.body {
+    font-family: "Times New Roman, Times, serif";
+    font-size: 20px;
+    letter-spacing: -0.2px;
+    word-spacing: 2px;
+    color: #000f3f;
+    font-weight: 500;
+    margin-top: 40px;
+    border: 2px #000f3f;
+    background-color: rgb(230, 228, 240);
+}
